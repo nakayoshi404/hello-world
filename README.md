@@ -7,5 +7,4 @@ GitHub asked me to make it
 
 タグの使いかた　　　<source> abcdefg </source> 
 
-$$ y=4x^2-2x $$
 $$2x^2-4x$$
