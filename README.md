@@ -7,6 +7,5 @@ GitHub asked me to make it
 
 タグの使いかた　　　<source> abcdefg </source> 
 
-$$2x^2-4x$$
-$$y=\frac{4ax-5b}{4ac}$$
 
+$$2x^2-4x$$
